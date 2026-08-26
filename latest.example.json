@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Beispiel – nicht als produktive Updateinformation verwenden.",
+  "pub_date": "2026-08-27T00:00:00.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "INHALT_DER_GENERIERTEN_SIG_DATEI",
+      "url": "https://github.com/GoossensEnergyGmbH/gea-updates/releases/download/v0.2.0/Goossens%20Energy%20Analyse_0.2.0_x64-setup.exe"
+    }
+  }
+}
